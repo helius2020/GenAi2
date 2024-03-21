@@ -1,0 +1,12 @@
+flask
+google-generativeai
+gunicorn
+replicate
+diffusers==0.11.1
+transformers
+scipy
+ftfy
+accelerate
+torch
+accelerate
+imageio[ffmpeg]
